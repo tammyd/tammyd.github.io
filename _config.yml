@@ -1,7 +1,7 @@
 title: tammyd.ca
 description: "Just another developer with a website. "
 google_analytics: UA-1781879-2
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-midnight
 
 gems:
