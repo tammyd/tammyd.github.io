@@ -8,7 +8,7 @@ Professionally, you can find me over at [LinkedIn](https://www.linkedin.com/in/t
 
 Personally, I have two projects on the go at the moment.
 
-The first is [CatFoodDB](http://catfooddb.com/), a nutritional database for cats. There are dozens of databases for human food, this one is an equivalent for commercially prepared cat food.
+The first is <a href="http://catfooddb.com" rel="nofollow">CatFoodDB</a>, a nutritional database for cats. There are dozens of databases for human food, this one is an equivalent for commercially prepared cat food.
 
 I've also dabbled in developing for the [Pebble](https://getpebble.com/) line of smart watches. Since Pebble's been bought by Fitbit and effectively shuttered, I suspect this will be the last of this line of futzing.
 
